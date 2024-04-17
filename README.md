@@ -1,6 +1,7 @@
 # robofest_rover
 ## Software stack for a GPS-based autonomous navigation rover -- by Team NITR
-
+## Full Documentation Link: [Documentation](https://docs.google.com/document/d/17qWJJJjdLaTIgQT5uWVsDIz8EwbP5gq0h-H12cCRpYM/edit?usp=sharing)
+## Video Demonstration: [video link](https://youtu.be/PNhyHu2acvo)
 ## Dependencies
 ### Software and frameworks used
 - [Ubuntu 20.04](https://www.releases.ubuntu.com/focal/)
